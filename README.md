@@ -1,0 +1,40 @@
+# Towards c++14
+
+## Using c++14 to replace auxiliary
+
+* [] compatiblescalar.h
+* [] compatibletype.h
+* [] complextrait.h
+* [] constref.h
+* [] elementtype.h
+* [] explicit_cast.h
+* [] hasengine.h
+* [] ifelseif.h
+* [] indextype.h
+* [] isclosure.h
+* [] iscomplex.h
+* [] isconvertible.h
+* [] isgeneralmatrix.h
+* [] ishermitianmatrix.h
+* [] isinteger.h
+* [] ismatrixclosure.h
+* [] ismatrix.h
+* [] isreal.h
+* [] issame.h
+* [] issymmetricmatrix.h
+* [] istriangularmatrix.h
+* [] isvectorclosure.h
+* [] isvector.h
+* [] macros.h
+* [] max.h
+* [] min.h
+* [] noview.h
+* [] pair.h
+* [] promotion.h
+* [] quadruple.h
+* [] randomvalue.h
+* [] range.h
+* [] removeref.h
+* [] restrictto.h
+* [] triple.h
+* [] underscore.h
